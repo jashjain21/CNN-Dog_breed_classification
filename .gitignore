@@ -1,5 +1,4 @@
 .ipynb_checkpoints/
 udacity_review/
 zipped_file/
-model_scratch.pt
-model_transfer.pt
+*.pt
